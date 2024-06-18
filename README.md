@@ -8,6 +8,9 @@ vim /etc/rancher/k3s/registries.yaml
 
 ```yaml
 mirrors:
+  docker.io:
+    endpoint:
+      - https://docker.m.daocloud.io
   registry.k8s.io:
     endpoint:
       - https://k8s.m.daocloud.io
