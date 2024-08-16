@@ -11,6 +11,7 @@ mirrors:
   docker.io:
     endpoint:
       - https://dockerpull.com
+      - https://docker.m.daocloud.io
   registry.k8s.io:
     endpoint:
       - https://k8s.m.daocloud.io
@@ -19,6 +20,10 @@ mirrors:
 ```bash
 systemctl restart k3s
 ```
+
+## More
+
+[https://www.wangdu.site/course/2109.html](https://www.wangdu.site/course/2109.html)
 
 ## LICENSE
 
