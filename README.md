@@ -20,6 +20,10 @@ mirrors:
 systemctl restart k3s
 ```
 
+## More
+
+[https://www.wangdu.site/course/2109.html](https://www.wangdu.site/course/2109.html)
+
 ## LICENSE
 
 [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
