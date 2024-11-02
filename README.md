@@ -10,7 +10,7 @@ vim /etc/rancher/k3s/registries.yaml
 mirrors:
   docker.io:
     endpoint:
-      - https://dockerpull.com
+      - https://dockerpull.org
   registry.k8s.io:
     endpoint:
       - https://k8s.m.daocloud.io
